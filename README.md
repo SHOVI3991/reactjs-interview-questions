@@ -2390,7 +2390,6 @@ You can download the PDF and Epub version of this repository from the latest run
     <img className='image' src={`images/${this.props.image}`} />
     ```
 
-
    **[⬆ Back to Top](#table-of-contents)**
     
 94. ### What is React proptype array with shape?
